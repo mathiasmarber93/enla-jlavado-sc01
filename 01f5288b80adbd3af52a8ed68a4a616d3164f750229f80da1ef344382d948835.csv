@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CP01 - Validar inicio de sesion","CP0101 - Validar inicio de sesión con credenciales validas","SUCCESS","2023-08-25T17:32:07.9421412-05:00[America/Lima]","0.0","25.22"
+"CP01 - Validar inicio de sesion","CP0102 - Validar inicio de sesión con credenciales inválidas","SUCCESS","2023-08-25T17:32:33.7557589-05:00[America/Lima]","0.0","19.32"
+"CP02 - Validar registro de asistencia","CP0201 - Registrar asistencia nueva","SUCCESS","2023-08-25T17:32:53.6382791-05:00[America/Lima]","0.0","60.98"
+"CP02 - Validar registro de asistencia","CP0202 - Registrar asistencia existente","SUCCESS","2023-08-25T17:33:55.2528895-05:00[America/Lima]","0.0","36.68"
+"CP03 - Validar reporte de asistencia","CP0301 - Validar la lista de asistencia registrados por dni","SUCCESS","2023-08-25T17:34:32.468711-05:00[America/Lima]","0.0","102.52"

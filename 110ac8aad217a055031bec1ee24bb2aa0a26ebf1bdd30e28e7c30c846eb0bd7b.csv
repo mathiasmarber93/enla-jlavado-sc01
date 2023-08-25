@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"CP02 - Validar registro de asistencia","CP0201 - Registrar asistencia nueva","SUCCESS","2023-08-25T17:32:53.6382791-05:00[America/Lima]","0.0","60.98"
+"CP02 - Validar registro de asistencia","CP0202 - Registrar asistencia existente","SUCCESS","2023-08-25T17:33:55.2528895-05:00[America/Lima]","0.0","36.68"
